@@ -1,2 +1,2 @@
-# Multi-AI
-The code for "Multi-AI: Configurable General Multi-Agent Interaction Framework".
+# MASS_Edu
+The code for "MASS_Edu: Multi-Agent Sandbox Simulations for Educational Scenarios".
